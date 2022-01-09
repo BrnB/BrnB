@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brnb (Bruna Bechlin)
+- 👀 I’m interested in technology (?), reading, languages and cats.
+- 🌱 I’m currently learning Front End (HTML, CSS e JavaScript)
+- 💞️ I’m looking to collaborate on projects where I can learn more about coding and stuff.
+- 📫 How to reach me - my email is bbechlin@gmail.com - or you can message me at facebook and instagram, just look for my name and surname...
